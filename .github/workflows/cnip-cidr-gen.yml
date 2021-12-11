@@ -1,6 +1,7 @@
 name: cnip-cidr-gen
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '5 0 1 * *'
 
