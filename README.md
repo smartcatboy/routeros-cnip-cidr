@@ -19,4 +19,7 @@ CN ip list script generator for MikroTik RouterOS
 ## Tanks to
 
 [ispip.clang.cn](https://ispip.clang.cn/)
+
 [ipip.net](https://en.ipip.net/)
+
+[RookieZoe](https://github.com/RookieZoe/routeros-cnip-cidr)
