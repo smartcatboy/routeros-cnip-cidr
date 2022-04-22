@@ -4165,6 +4165,11 @@
 :do {add address=103.185.80.0/23 list=cn_ip_cidr} on-error={}
 :do {add address=103.185.228.0/23 list=cn_ip_cidr} on-error={}
 :do {add address=103.186.4.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=103.186.108.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=103.186.112.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=103.186.136.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=103.186.158.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=103.186.162.0/23 list=cn_ip_cidr} on-error={}
 :do {add address=103.192.0.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.192.4.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.192.8.0/22 list=cn_ip_cidr} on-error={}
@@ -14794,6 +14799,7 @@
 :do {add address=2001:df0:85c0::/48 list=cn_ip_cidr} on-error={}
 :do {add address=2001:df0:8d40::/48 list=cn_ip_cidr} on-error={}
 :do {add address=2001:df0:9d40::/48 list=cn_ip_cidr} on-error={}
+:do {add address=2001:df0:ac40::/48 list=cn_ip_cidr} on-error={}
 :do {add address=2001:df0:b180::/48 list=cn_ip_cidr} on-error={}
 :do {add address=2001:df0:bf80::/48 list=cn_ip_cidr} on-error={}
 :do {add address=2001:df0:d880::/48 list=cn_ip_cidr} on-error={}
@@ -14999,12 +15005,14 @@
 :do {add address=2400:6f80::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:6fc0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7040::/32 list=cn_ip_cidr} on-error={}
+:do {add address=2400:70a0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7100::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7140::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:71c0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7200::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7240::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:72c0::/32 list=cn_ip_cidr} on-error={}
+:do {add address=2400:72e0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7340::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:73c0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:7440::/32 list=cn_ip_cidr} on-error={}
