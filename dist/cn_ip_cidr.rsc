@@ -15078,6 +15078,7 @@
 :do {add address=2400:a040::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:a320::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:a380::/32 list=cn_ip_cidr} on-error={}
+:do {add address=2400:a420::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:a480::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:a780::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2400:a8c0::/32 list=cn_ip_cidr} on-error={}
