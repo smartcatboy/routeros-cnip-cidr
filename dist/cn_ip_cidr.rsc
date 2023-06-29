@@ -6457,9 +6457,9 @@
 :do {add address=185.203.36.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=188.131.128.0/17 list=cn_ip_cidr} on-error={}
 :do {add address=192.51.188.0/24 list=cn_ip_cidr} on-error={}
-:do {add address=192.55.46.0/24 list=cn_ip_cidr} on-error={}
+:do {add address=192.55.46.0/23 list=cn_ip_cidr} on-error={}
 :do {add address=192.55.68.0/22 list=cn_ip_cidr} on-error={}
-:do {add address=192.102.204.0/23 list=cn_ip_cidr} on-error={}
+:do {add address=192.102.204.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=192.124.154.0/24 list=cn_ip_cidr} on-error={}
 :do {add address=192.140.128.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=192.140.132.0/22 list=cn_ip_cidr} on-error={}
