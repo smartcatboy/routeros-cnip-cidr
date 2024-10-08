@@ -16176,6 +16176,7 @@
 :do {add address=2401:c840::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2401:c8c0::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2401:ca00::/32 list=cn_ip_cidr} on-error={}
+:do {add address=2401:ca20::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2401:cb80::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2401:cc00::/32 list=cn_ip_cidr} on-error={}
 :do {add address=2401:ce00::/32 list=cn_ip_cidr} on-error={}
