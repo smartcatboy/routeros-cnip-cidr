@@ -3501,7 +3501,6 @@
 :do {add address=103.100.240.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.100.248.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.100.252.0/22 list=cn_ip_cidr} on-error={}
-:do {add address=103.101.4.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.101.8.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.101.12.0/22 list=cn_ip_cidr} on-error={}
 :do {add address=103.101.60.0/22 list=cn_ip_cidr} on-error={}
